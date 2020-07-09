@@ -1,5 +1,5 @@
 node defaut {
-  file {' /root/README':
-      ensure => file,
-   }
+    file {' /root/README':
+         ensure => file,
+    }
 }
